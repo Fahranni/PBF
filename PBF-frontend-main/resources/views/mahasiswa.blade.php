@@ -102,7 +102,6 @@
                     </tbody>
                 </table>       
           </div>
-          <!-- AKHIR DATA -->
     </div>
     </div>
     </main>
