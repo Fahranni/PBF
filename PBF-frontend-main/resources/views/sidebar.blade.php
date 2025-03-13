@@ -31,7 +31,7 @@
     </a>
   </li>
   <li>
-    <a href="/home" class="nav-link link-body-emphasis">
+    <a href="/dosen" class="nav-link link-body-emphasis">
     <img src="image/dosen.png" alt="Icon" width="19" height="19" class="pe-none me-2">
       Dosen Pembimbing
     </a>
@@ -49,7 +49,7 @@
     </a>
   </li>
   <li>
-    <a href="bimbingan.blade.php" class="nav-link link-body-emphasis">
+    <a href="/bimbingan" class="nav-link link-body-emphasis">
     <img src="image/kalender.png" alt="Icon" width="19" height="19" class="pe-none me-2">
       Jadwal Bimbingan
     </a>
